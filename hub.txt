@@ -15,3 +15,4 @@ payload:
   - '+.myavlive.com'
   - '+.umate.me'
   - '+.winkav.com'
+  - '+.18comic.vip'
