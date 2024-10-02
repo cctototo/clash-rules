@@ -14,5 +14,6 @@ payload:
   - '+.sexkbj.com'
   - '+.tktube.com'
   - '+.umate.me'
+  - '+.vdtuzv.com'
   - '+.winkav.com'
   - '+.winktv.co.kr'
