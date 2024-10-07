@@ -4,6 +4,7 @@ payload:
   - '+.cableav.tv'
   - '+.candfans.jp'
   - '+.fansly.com'
+  - '+.fivetiu.com'
   - '+.hanime1.me'
   - '+.hmoeh.com'
   - '+.jvid.com'
