@@ -1,5 +1,6 @@
 payload:
   - '+.18comic.vip'
+  - '+.4hu.tv'
   - '+.51cg1.com'
   - '+.cableav.tv'
   - '+.candfans.jp'
